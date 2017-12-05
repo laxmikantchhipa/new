@@ -9,8 +9,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        System.out.println("test")
+        System.out.println("test 234 ")
 
-
+        System.out.println("first process is completed ")
+        System.out.println("second process is completed")
     }
 
 
