@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
         System.out.println("first process is completed ")
         System.out.println("second process is completed")
+        System.out.println("third process is completed")
     }
 
 
